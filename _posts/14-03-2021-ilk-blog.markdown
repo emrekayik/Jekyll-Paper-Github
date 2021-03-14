@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "İlk Blog"
+date:   14-03-2021
+last_modified_at: 14-03-2021
+categories: [personal]
+---
+
+Bu websitesinde tarihe not düşmek adına ilk bloğumu yazmaktayım. Geleceğe bir not gibi.
+
+Üslü sayıların toplamlarını bulabileceğim bir ispat yapmaya çalıştım lakin pek başarılı olamadım. Bunu tekrar deneyeceğim.
