@@ -18,14 +18,17 @@ layout: default
     <legend>Post Bilgileri:</legend>
     <div class="post-info">
       <div class="post-date">
+        <div>
         {{ site.data.lang[site.language].post_write_date}}
         {{ page.date | date: '%Y-%m-%d' }}
         {% if page.last_modified_at %}
-          ,
+        </div>
+        
+        <div>
           {{ site.data.lang[site.language].post_update_date}}
           {{ page.last_modified_at | date: '%Y-%m-%d' }}
         {% endif %}
-        .
+        </div>
       </div>
       {% if site.name %}
       <div class="post-author">
