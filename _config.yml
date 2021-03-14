@@ -2,16 +2,16 @@
 #
 # This is the configuration file for your blog, please change these items after forked.
 
-title: Your title
-email: your-email@example.com
-name: Your name
+title: Emre KAYIK
+email: emrekayik1905@gmail.com
+name: Emre KAYIK
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
+  
 keywords: [Your keywords]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-domain: 'example.com' # the domain name for your site, e.g. example.com
-language: en
+domain: 'emrekayik.github.io' # the domain name for your site, e.g. example.com
+language: tr
 # Supported languages list:
 # en: English
 # de: Deutsche (German)
@@ -33,7 +33,7 @@ diagram: true # Diagrams support
 paginate: 25
 paginate_path: '/page:num/'
 
-permalink: /:year/:month/:day/:title
+permalink: /:day/:month/:year/:title
 
 sass:
   sass_dir: _sass
